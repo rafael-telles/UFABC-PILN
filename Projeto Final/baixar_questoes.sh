@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+mkdir -p dados/questoes
 curl 'https://vestibular.brasilescola.uol.com.br/simulado/questoes/' \
     -H 'Connection: keep-alive' \
     -H 'Cache-Control: max-age=0' \
