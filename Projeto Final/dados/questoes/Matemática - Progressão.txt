@@ -1,0 +1,1 @@
+Seja x > 0 tal que a sequência a1 = log2x, a2 = log4(4x), a3 = log8(8x) forme, nessa ordem, uma progressão aritmética. Então, a1+a2+a3 é igual a 13/2 15/2 17/2 19/2 21/2

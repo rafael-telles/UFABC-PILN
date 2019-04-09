@@ -1,0 +1,3 @@
+4 13 16 24 36
+Em uma loteria com letras, algumas bolas de bingo, cada uma marcada com uma letra, são colocadas em um globo para srem misturadas e sorteadas. No sorteio, as bolas são retiradas, uma a uma, até esvaziar o globo, formando uma sequência aleatória (um anagrama), que é o resultado do sorteio. Antes do sorteio, cada jogador dá seu palpite, que consiste em escolher uma classe gramatical de palavras em língua portuguesa. O jogador ganhará se o resultado do sorteio pertencer à classe gramatical de sua escolha. Considerando que, no momento de dar o palpite, estão no globo quatro bolas com as letras A, M, O e R, qual a probabilidade de ganhar terá um jogador que escolheu a classe gamatical verbo? 1/6 1/4 7/24 1/3 4/3
+3,4 e 5 435 e 6 4,8 e 12 5,8 e 13 5,10 e 13

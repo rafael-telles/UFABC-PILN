@@ -1,0 +1,24 @@
+
+Zero 1/4 -1/4 1 -1
+O conjunto solução da equação , com é:
+
+0,80 0,94 1,00 1,08 1,41
+1700 2100 2200 2500 2700
+A soma das coordenadas do centro da circunferência que tem raio medindo 1 u.c., que está situada no primeiro quadrante e que tangencia o eixo dos y e a reta 4x - 3y = 0, é 3 u.c. 5 u.c. 4 u.c. 6 u.c. n.d.a.
+Para se calcular a altura de uma torre, utilizou-se o seguinte procedimento ilustrado na figura: um aparelho (de altura desprezível) foi colocado no solo, a uma certa distância da torre, e emitiu um raio em direção ao ponto mais alto da torre. O ângulo determinado entre o raio e o solo foi de A seguir, o aparelho foi deslocado 4 metros em direção à torre e o ângulo então obtido foi de radianos, com . É correto afirmar que a altura da torre, em metros, é
+Se a seqüência , é uma progressão geométrica, então x é igual a
+Paulo e Marta estão brincando de jogar dardos. O alvo é um disco circular de centro O. Paulo joga um dardo, que atinge o alvo num ponto, que vamos denotar por P; em seguida, Marta joga outro dardo, que atinge um ponto denotado por M, conforme figura. Sabendo-se que a distância do ponto P ao centro O do alvo é igual a 10 cm, que a distância de P a M é 14 cm e que o ângulo PÔM mede 120º, a distância, em centímetros, do ponto M ao centro O é 12. 9. 8. 6. 5.
+Um barco atravessa um rio num trecho onde a largura é 100 m, seguindo uma direção que forma um ângulo de 30° com uma das margens. Assinale a alternativa CORRETA para a distância percorrida pelo barco para atravessar o rio. 100 m. 200 m. 150 m.
+O triângulo ACD é isósceles de base e o segmento é perpendicular ao plano que contém o triângulo OCD , conforme a figura: Sabendo-se que OA = 3, AC = 5 e , então a área do triângulo OCD vale
+
+Um ponto se movimenta sobre um plano onde está situado um referencial cartesiano. Seu trajeto percorre a circunferência de equação x2 + y2 = 1 e seu deslocamento é feito a partir do ponto ( 1, 0 ) no sentido antihorário até a primeira interseção dessa circunferência com a reta y = x. Essa interseção é dada pelo ponto (cos0º, sen0º) (sen30º, cos30º) (cos45º, sen45º) (sen60º, cos60º) (sen90º, cos90º)
+O número de soluções da equação |sen2x| = |cos x| , no intervalo [0, 2π ], é: 3 4 5 6 n.d.a.
+Observe a figura abaixo. Para que, na figura apresentada, a área da região sombreada seja o dobro da área da região não sombreada, a equação cartesiana da reta r deve ser:
+Dois observadores, situados nos pontos A e B, a uma distância d um do outro, como mostra a figura abaixo, avistam um mesmo ponto no topo de um prédio de altura H, sob um mesmo ângulo θ com a horizontal. Sabendo que o ângulo também mede θ e desconsiderando a altura dos observadores, a altura H do prédio é dada pela expressão:
+Deseja-se instalar uma fábrica num lugar que seja eqüidistante dos municípios A, B e C. Admita que A, B e C são pontos não colineares de uma região plana e que o triângulo ABC é escaleno. Nessas condições, o ponto onde a fábrica deverá ser instalada é o centro da circunferência que passa por A, B e C. baricentro do triângulo ABC. ponto médio do segmento BC. ponto médio do segmento AB. ponto médio do segmento AC.
+Uma empresa de engenharia deseja construir uma estrada ligando os pontos A e B, que estão situados em lados opostos de uma reserva florestal, como mostra a figura abaixo. A empresa optou por construir dois trechos retilíneos, denotados pelos segmentos AC e CB, ambos com o mesmo comprimento. Considerando que a distância de A até B, em linha reta, é igual ao dobro da distância de B a D, o ângulo α, formado pelos dois trechos retilíneos da estrada, mede 110° 120° 130° 140° 150°
+A corda PQ de uma circunferência S, cuja medida do diâmetro é 10m, é o diâmetro de uma outra circunferência menor, que passa pelo centro de S. A medida da área da região limitada pela circunferência menor é n.d.a.
+Na Figura I, está representado um retângulo, cuja base mede 25 cm e cuja altura mede 9 cm. Esse retângulo está dividido nas regiões α, β e γ. Sem que haja qualquer superposição delas, essas regiões podem ser reagrupadas, formando um quadrado, como mostrado na Figura II; Então, é CORRETO afirmar que a área da região α mede; 24 cm2 . 28 cm2. 30 cm2. 32 cm2 nenhuma das alternativas anteriores.
+Na figura abaixo, tg B é igual a 16/81 8/27 19/63 2/3 1/4
+Na figura, B, C e D são pontos distintos da circunferência de centro O, e o ponto A é exterior a ela.
+Os comprimentos dos lados de um triângulo ABC formam uma PA . Sabendo-se também que o perímetro de ABC vale 15 e que o ângulo Â mede 120°, então o produto dos comprimentos dos lados é igual a 25 45 75 105 125
